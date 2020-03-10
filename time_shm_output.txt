@@ -1,0 +1,6 @@
+total 36
+-rwxr-xr-x 1 binhthaitrinh binhthaitrinh  8840 Mar  9 18:18 time_pipe
+-rw-r--r-- 1 binhthaitrinh binhthaitrinh  1091 Mar  9 18:17 time_pipe.c
+-rwxr-xr-x 1 binhthaitrinh binhthaitrinh 12936 Mar  9 18:18 time_shm
+-rw-r--r-- 1 binhthaitrinh binhthaitrinh  1226 Mar  9 18:17 time_shm.c
+Elapsed time: 0.002264
